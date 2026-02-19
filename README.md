@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi! I'm Tamara 👋
 
-<!--
-**tamara-dell/tamara-dell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently developing skills in Technical Support and troubleshooting web services.
 
-Here are some ideas to get you started:
+I enjoy analyzing problems, finding causes and explaining solutions in a clear and structured way. I'm especially interested in how web platforms work and how technical issues can be diagnosed and solved.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔎 Currently learning:
+- bug investigation
+- browser DevTools
+- web interface troubleshooting
+- technical documentation
+
+💡 Strengths:
+- structured thinking
+- attention to detail
+- fast learning
+- clear written communication
+
+🌍 Languages:
+English — fluent  
+Finnish — fluent  
+Russian — native
